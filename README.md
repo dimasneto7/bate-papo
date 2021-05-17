@@ -1,2 +1,1 @@
-# bate-padp
 # bate-papo
